@@ -39,7 +39,7 @@ In this sense, the best strategy to target new customer is with the combination 
 
 Current customer table is also provided for the company to increase the potential of returning/recurrence customer. For sure we should advertise to our current customers. In this table, the customers are also segmented by the class income. 
 
-### Note:
-Unfortunately, this data still has many limitations. With further collection of data, the marketing campaigns can be more specific. 
+Unfortunately, the data provided still has many limitations. With further collection of data, the marketing campaigns can be more specific. 
 
 Please see the report here : [National Clothing Chain](https://app.powerbi.com/view?r=eyJrIjoiYzUzYzA3YmYtMWJjZS00OGZlLWFjNjQtN2U3OTZjZjRkNzA4IiwidCI6IjFhNGNiYmNlLWE5ZmItNGQyYS05MTU3LTBlMzlhNWNhMjc1MSIsImMiOjh9&pageName=ReportSection65ea62a00b081a59614d)
+Note: The decomposition tree is not working due to limitation with the LIVE Connection. AI Splits are currently unsupported (as of August 15, 2022)
