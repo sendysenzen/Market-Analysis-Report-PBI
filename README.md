@@ -42,4 +42,4 @@ Current customer table is also provided for the company to increase the potentia
 ### Note:
 Unfortunately, this data still has many limitations. With further collection of data, the marketing campaigns can be more specific. 
 
-Please see the report here : 
+Please see the report here : [National Clothing Chain](https://app.powerbi.com/view?r=eyJrIjoiYzUzYzA3YmYtMWJjZS00OGZlLWFjNjQtN2U3OTZjZjRkNzA4IiwidCI6IjFhNGNiYmNlLWE5ZmItNGQyYS05MTU3LTBlMzlhNWNhMjc1MSIsImMiOjh9&pageName=ReportSection65ea62a00b081a59614d)
